@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-      <h2>🚀 Linguagem e tecnologias</h2>
+      <h2>💻 Linguagem e tecnologias</h2>
       <p>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="logo java" height="30" width="30">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="logo php" height="30" width="30">
