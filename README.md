@@ -12,9 +12,9 @@
 <div>
    <a href=""https://github.com/Felipe-m-s>
    <p>
-      <img src="https://github-readme-stats.vercel.app/api?username=Felipe-m-s&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" alt="Felipe's GitHub stats" height=200 style="padding-rigth: 10px">
+      <img src="https://github-readme-stats.vercel.app/api?username=Felipe-m-s&show_icons=true&theme=dracula&locale=pt-br&border_radius=35" alt="Felipe's GitHub stats" height=200 style="padding-rigth: 10px">
       </>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-m-s&theme=dark&custom_title=Tecnologias&layout=compact&langs_count=9" alt="Top Lags" height=200 style="padding-rigth: 10px"></>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-m-s&theme=dracula&custom_title=Tecnologias&layout=compact&langs_count=9&border_radius=35" alt="Top Lags" height=200 style="padding-rigth: 10px"></>
    </p>
 </div>
 
