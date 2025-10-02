@@ -42,7 +42,7 @@
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Perfil Linkedin" height="30" width="30">
   </a>
   <a href="martinssantos.felipe05@gmail.com ">
-    <img src="https://upload.vectorlogo.zone/logos/mailinaboxemail/images/4ff04de5-0c08-4bfb-a6b2-b00b2d30b0fc.svg" alt="Email" height="30" width="30">
+    <img src="https://upload.vectorlogo.zone/logos/mailinaboxemail/images/4ff04de5-0c08-4bfb-a6b2-b00b2d50b0fc.svg" alt="Email" height="30" width="30"" alt="Email" height="30" width="30">
   <a href="https://wa.me/5533998296198">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png?20220228223904" alt="WhatsApp" height="30" width="30">
   </a>
