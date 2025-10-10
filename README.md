@@ -26,7 +26,7 @@
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Felipe-m-s&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Felipe-m-s&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Felipe-m-s&theme=dracula&utcOffset=8) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Felipe-m-s&theme=dracula) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Felipe-m-s&theme=dracula&locale=pt-br) |
 | :-: |
 
 </div>
