@@ -1,21 +1,37 @@
-# Olá, eu sou o Felipe Martins! 👋
+<div align="center" style="
+  background-color:#282A36;
+  color:#F8F8F2;
+  padding: 40px;
+  border-radius: 12px;
+  font-family: 'Segoe UI', sans-serif;
+">
+<img width="3098" height="1302" alt="Image" src="https://github.com/user-attachments/assets/340992ce-f62b-47d6-841f-c0cacb2db158" />
 
 <div align="center">
-      <h2>🚀 Sobre mim</h2>
+      
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=40&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&height=60&lines=Sejam+bem-vindos+ao+meu+GitHub!)](https://git.io/typing-svg)
+</div>
+
+<div align="center">
+      <h2 style="color:FF79C6">🚀 Sobre mim</h2>
     </div>
 
-🎓 Estudante de **Sistemas de Informação** no IFMG - São João Evangelista  
-💻 Atualmente aprendendo **Python** e aprofundando conhecimentos em **Algoritmos, Estruturas de Dados e Banco de Dados**  
-🏡 Apaixonado por **automação residencial** e pelo impacto da tecnologia no dia a dia  
-🚀 Interesses: Desenvolvimento Back-End e Projetos de Automação  
+<p align="left">🎓 Estudante de <strong>Sistemas de Informação</strong> no IFMG - São João Evangelista<br>  
+💻 Atualmente aprendendo Python e aprofundando conhecimentos em Algoritmos, Estruturas de Dados e Banco de Dados<br>  
+🏡 Apaixonado por <strong>automação residencial</strong> e pelo impacto da tecnologia no dia a dia<br>  
+🚀 Interesses: Desenvolvimento Back-End e Projetos de Automação  </p>
 
 <div align="center">
-   <a href="https://github.com/Felipe-m-s">
-   <p>
-      <img src="https://github-readme-stats.vercel.app/api?username=Felipe-m-s&show_icons=true&theme=dracula&border_radius=35&locale=pt-br" alt="GitHub stats" height="200">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-m-s&layout=donut&theme=dracula&border_radius=35&locale=pt-br" alt="Top Langs" height="200">
-   </p>
+      
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Felipe-m-s&show_icons=true&theme=dracula&locale=pt-br) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Felipe-m-s&theme=dracula&locale=pt-br) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Felipe-m-s&theme=dracula&utcOffset=8) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Felipe-m-s&theme=dracula) |
+| :-: |
+
 </div>
+
+ <hr style="border:1px solid #44475A; margin: 30px 0;"/>
 
 <div align="center">
       <h2>💻 Linguagem e tecnologias</h2>
@@ -46,3 +62,4 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png?20220228223904" alt="WhatsApp" height="30" width="30">
   </a>
 </p>
+  </div>
