@@ -23,7 +23,7 @@
 
 <div align="center">
       
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Felipe-m-s&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Felipe-m-s&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Felipe-m-s&theme=dracula&utcOffset=8) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Felipe-m-s&theme=dracula) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-m-s&layout=compact&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Felipe-m-s&theme=dracula&utcOffset=8) |
 | :-: | :-: | :-: |
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Felipe-m-s&theme=dracula&locale=pt-br) |
