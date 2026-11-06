@@ -22,13 +22,39 @@
 🚀 Interesses: Desenvolvimento Back-End e Projetos de Automação  </p>
 
 <div align="center">
-      
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Felipe-m-s&theme=dracula) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-m-s&layout=compact&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Felipe-m-s&theme=dracula&utcOffset=8) |
-| :-: | :-: | :-: |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Felipe-m-s&theme=dracula&locale=pt-br) |
-| :-: |
-
+  <table align="center">
+    <tr>
+      <td align="center">
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+          <img src="https://raw.githubusercontent.com/Felipe-m-s/Felipe-m-s/main/profile-summary-card-output/material_palenight/3-stats.svg" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+          <img src="https://raw.githubusercontent.com/Felipe-m-s/Felipe-m-s/main/profile-summary-card-output/material_palenight/2-most-commit-language.svg" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+          <img src="https://raw.githubusercontent.com/Felipe-m-s/Felipe-m-s/main/profile-summary-card-output/material_palenight/1-repos-per-language.svg" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+          <img src="https://raw.githubusercontent.com/Felipe-m-s/Felipe-m-s/main/profile-summary-card-output/material_palenight/4-productive-time.svg" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+          <img src="https://raw.githubusercontent.com/Felipe-m-s/Felipe-m-s/main/profile-summary-card-output/material_palenight/0-profile-details.svg" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
  <hr style="border:1px solid #44475A; margin: 30px 0;"/>
