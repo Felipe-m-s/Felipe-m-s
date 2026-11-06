@@ -59,33 +59,68 @@
 
  <hr style="border:1px solid #44475A; margin: 30px 0;"/>
 
+## 🛠️ Tecnologias e ferramentas
+
+**Linguagens de programação e desenvolvimento web**
+
 <div align="center">
-      <h2>💻 Linguagem e tecnologias</h2>
-      <p>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="logo java" height="30" width="30">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="logo php" height="30" width="30">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="logo html" height="30" width="30">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="logo c" height="30" width="30">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="logo cpp" height="30" width="30">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="logo python" height="30" width="30">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="logo mysql" height="30" width="30">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="logo vscode" height="30" width="30">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="logo git" height="30" width="30">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="logo github" height="30" width="30">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-plain.svg" alt="logo netbeans" height="30" width="30">
-      </p>
-    </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40"/>
+</div>
 
-<h2 align="center">📫 Conecte-se comigo</h2>
+**Frameworks e bibliotecas**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/felipe-santos-053953206">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Perfil Linkedin" height="30" width="30">
-  </a>
-  <a href="mailto:martinssantos.felipe05@gmail.com">
-    <img src="https://upload.vectorlogo.zone/logos/mailinaboxemail/images/4ff04de5-0c08-4bfb-a6b2-b00b2d50b0fc.svg" alt="Email" height="30" width="30">
-  <a href="https://wa.me/5533998296198">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png?20220228223904" alt="WhatsApp" height="30" width="30">
-  </a>
-</p>
-  </div>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40"/>
+</div>
+
+**Banco de dados**
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40"/>
+</div>
+
+**Ferramentas e versionamento**
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" title="Apache NetBeans" alt="Apache NetBeans" width="40"/>
+</div>
+
+**Sistemas operacionais**
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40"/>
+</div>
+
+## 📫 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/felipe-santos-053953206" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" height="35" width="35"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:martinssantos.felipe05@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" title="Gmail" height="35" width="35"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://wa.me/5533998296198" target="_blank">
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" title="WhatsApp" height="35" width="35"/>
+</a>
+
+</div>
+</div>
